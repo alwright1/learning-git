@@ -2,3 +2,8 @@ Hello world
 
 Some modification.
 
+IF/THEN programming statements can be used for
+recoding prior to statistical analysis. SAS syntax used to
+create new binary variables and an ordinal HIT use
+variable is provided in Box 4.5.
+
